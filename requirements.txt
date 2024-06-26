@@ -1,0 +1,12 @@
+langchain
+langchain-community
+chromadb
+llama-cpp-python
+sentence-transformers  # For embedding models like all-MiniLM-L6-v2
+langchain-openai
+langchain-huggingface
+
+# Optional Dependencies (depending on your model)
+transformers  # For Hugging Face transformer models
+pypdf2       # For loading PDF documents
+unstructured # For loading various file types

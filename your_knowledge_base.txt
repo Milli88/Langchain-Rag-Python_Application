@@ -1,0 +1,3 @@
+My dog is black.
+My dog's name is Jack.
+My dog is 4 years old.

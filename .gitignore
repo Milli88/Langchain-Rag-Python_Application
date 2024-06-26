@@ -1,0 +1,2 @@
+db/   # Ignore the Chroma database directory
+*.Q4_0.gguf  # Ignore the Llama.cpp model file (adjust the pattern as needed)
