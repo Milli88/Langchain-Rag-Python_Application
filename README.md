@@ -1,6 +1,4 @@
-# Langchain-Llamafile-Rag-Public
-RAG application using Langchain + Llamafile
+# Langchain-LLM-Rag
+RAG application using Langchain + Local LLM
 
-This python application has just started.
 
-Currently a RAG application for a TXT file. LLM is using Llamafile.
